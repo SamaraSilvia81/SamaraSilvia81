@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-## Hi. Eu sou Samara Silvia !!
+## Hi. Eu sou Samara Silvia!
 <div align="center">
   <a href="https://github.com/SamaraSilvia81">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamaraSilvia81&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
