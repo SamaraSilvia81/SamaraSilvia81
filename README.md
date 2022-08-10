@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Samara-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Samara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Samara-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Samara-pic" height="150" style="border-radius:150px" src="https://avatars.githubusercontent.com/u/100232025?s=400&u=d77ffc0893843faf7036c4e9c4cba58c21625948&v=4">
 </div>
   
   ##
