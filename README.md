@@ -8,9 +8,13 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+## Olá! Eu sou Samara Silvia 💞️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋Hey!+I'm+Samara.;Come+to+know+a+little+about+me!)](https://git.io/typing-svg)
+
 --->
 
-## Olá! Eu sou Samara Silvia 💞️
+[![Typing SVG](http://typing-svg.herokuapp.com?lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/SamaraSilvia81">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamaraSilvia81&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
