@@ -27,7 +27,6 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Samara-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Samara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Samara-pic" height="150" style="border-radius:150px" src="https://i.pinimg.com/originals/7a/9f/bb/7a9fbba50ca0f76593130336f5ff9092.gif">
 </div>
   
   ##
