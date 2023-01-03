@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-[![Typing SVG](http://typing-svg.herokuapp.com?lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/SamaraSilvia81">
