@@ -10,9 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Olá! Eu sou Samara Silvia 💞️
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋Hey!+I'm+Samara.;Come+to+know+a+little+about+me!)](https://git.io/typing-svg)
-
---->
 ![Banner Profile Github](https://user-images.githubusercontent.com/100232025/219683641-613cf9f7-b545-458e-b172-db49d057007f.gif)
+--->
+
+![Banner do Profile Github](https://user-images.githubusercontent.com/100232025/219689043-6cabf32d-109b-48fe-9a4c-cf0f014cef4b.gif)
 <br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
 
