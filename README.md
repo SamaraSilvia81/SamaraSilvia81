@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Banner do Profile Github](https://user-images.githubusercontent.com/100232025/219689043-6cabf32d-109b-48fe-9a4c-cf0f014cef4b.gif)
-<br><br>
+<br><br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
 
 <div align="center">
