@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![klkl](https://github.com/user-attachments/assets/4968623c-5964-4db5-906c-9a92443744f7)
+![Banner Linkedln - Samara Silvia](https://github.com/user-attachments/assets/454ebf05-2f80-475b-9290-bcb625ff0a56)
 
 #
 
