@@ -8,11 +8,11 @@
 
 #
 
-<img align="right" alt="" height="350px" src="https://github.com/user-attachments/assets/3ce92cd8-eee5-4d74-a245-81360458be50">
+<img align="right" alt="" height="390px" src="https://github.com/user-attachments/assets/3ce92cd8-eee5-4d74-a245-81360458be50">
 
 **`Frontend Engineer`**
 
-<p align="align"> Hey, guys! Eu sou a Sam, tenho 21 anos e sou de Recife, Pernambuco. Sou formada no curso de <strong>Sistemas para Internet</strong> pela UNICAP e atualmente faço mestrado em <strong>Ciência da Computação</strong> na UFPE. Meu foco é <strong>frontend</strong>, mas sou curiosa e gosto de me aventurar no <strong>back</strong>, <strong>design gráfico</strong> e <strong>UX/UI</strong>... Enfim, eu adoro aprender e compartilhar o que sei! No meu perfil no Instagram, <a href="https://www.instagram.com/devs_sam/" target="_blank"><strong>@Devs_Sam</strong></a>, sempre divido dicas e insights sobre tecnologia. Estou sempre em busca de desafios que me possam me ajudar a crescer como desenvolvedora e profissional. 🚀✨</p>
+<p align="align"> Hey, guys! Eu sou a Sam, tenho 21 anos e sou de Recife/PE. Sou formada no curso de <strong>Sistemas para Internet</strong> pela UNICAP e atualmente faço mestrado em <strong>Ciência da Computação</strong> na UFPE. Meu foco é <strong>frontend</strong>, mas sou curiosa e gosto de me aventurar no <strong>back</strong>, <strong>design gráfico</strong> e <strong>UX/UI</strong>... Enfim, eu adoro aprender e compartilhar o que sei! No meu perfil no Instagram, <a href="https://www.instagram.com/devs_sam/" target="_blank"><strong>@Devs_Sam</strong></a>, sempre divido dicas e insights sobre tecnologia. Estou sempre em busca de desafios que me possam me ajudar a crescer como desenvolvedora e profissional. 🚀✨</p>
 
 <h3 align="left">Connect with me!</h3>
 <div> 
