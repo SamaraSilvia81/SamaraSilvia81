@@ -1,5 +1,7 @@
-![Banner to Github Profile](https://user-images.githubusercontent.com/100232025/219691988-0ea6b0c7-62a3-4f18-80c1-51430148ec75.gif)
+<!--  ![Banner to Github Profile](https://user-images.githubusercontent.com/100232025/219691988-0ea6b0c7-62a3-4f18-80c1-51430148ec75.gif) -->
+![Banner Linkedln - Samara Silvia](https://github.com/user-attachments/assets/454ebf05-2f80-475b-9290-bcb625ff0a56)
 <br><br><br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=💜Hey!+I'm+Samara.;Come+to+know+a+little+about+me!&pause=1000&color=a694ff&width=435)](https://git.io/typing-svg)
 
 <div align="center">
