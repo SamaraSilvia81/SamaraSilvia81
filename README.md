@@ -51,8 +51,8 @@
 
 #
 
-<div align="center">
-  <a href="https://github.com/samarasilvia81">
-    ![snake gif](https://github.com/samarasilva81/samarasilvia81/blob/output/github-contribution-grid-snake.svg)
-    [![readme](https://github-readme-stats.vercel.com.aoo/api/pin/?username-samarasilvia81&repo=samarasilvia81&theme=react)](https://github.com.samarasilvia81/samarasilvia81)
-</div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
