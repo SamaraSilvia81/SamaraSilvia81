@@ -1,18 +1,20 @@
-<div align="center">
+<img width="1204" height="833" alt="Captura de tela 2026-07-16 150456" src="https://github.com/user-attachments/assets/d06a789f-2457-47b4-9d86-353af258ec95" />
+
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=💜+Hey!+I'm+Samara Silvia.;Come+to+know+a+little+about+me+%CB%99%E1%B5%95%CB%99+&pause=1000&color=a694ff&width=435" alt="Typing SVG" />
   </a>
-</div>
+</div> -->
 
-![Banner Linkedln - Samara Silvia](https://github.com/user-attachments/assets/454ebf05-2f80-475b-9290-bcb625ff0a56)
+<!--  ![Banner Linkedln - Samara Silvia](https://github.com/user-attachments/assets/454ebf05-2f80-475b-9290-bcb625ff0a56) -->
 
 #
 
-<img align="right" alt="" height="390px" src="https://github.com/user-attachments/assets/3ce92cd8-eee5-4d74-a245-81360458be50">
+<img align="right" alt="" height="390px" src="https://github.com/user-attachments/assets/2c12a81d-cab4-4e2e-bc79-f818e4b302b3">
 
 **`Frontend Engineer`**
 
-<p align="align"> Hey, guys! Eu sou a Sam, tenho 21 anos e sou de Recife/PE. Sou formada no curso de <strong>Sistemas para Internet</strong> pela UNICAP e atualmente faço mestrado em <strong>Ciência da Computação</strong> na UFPE. Meu foco é <strong>frontend</strong>, mas sou curiosa e gosto de me aventurar no <strong>back</strong>, <strong>design gráfico</strong> e <strong>UX/UI</strong>... Enfim, eu adoro aprender e compartilhar o que sei! No meu perfil no Instagram, <a href="https://www.instagram.com/devs_sam/" target="_blank"><strong>@Devs_Sam</strong></a>, sempre divido dicas e insights sobre tecnologia. Estou sempre em busca de desafios que me possam me ajudar a crescer como desenvolvedora e profissional. 🚀✨</p>
+<p align="align"> Hey, guys! Eu sou a Sam, tenho 22 anos e sou de Recife/PE. Sou formada no curso de <strong>Sistemas para Internet</strong> pela UNICAP e atualmente faço mestrado em <strong>Ciência da Computação</strong> na UFPE. Meu foco é <strong>frontend</strong>, mas sou curiosa e gosto de me aventurar no <strong>back</strong>, <strong>design gráfico</strong> e <strong>UX/UI</strong>... Enfim, eu adoro aprender e compartilhar o que sei! No meu perfil no Instagram, <a href="https://www.instagram.com/devs_sam/" target="_blank"><strong>@Devs_Sam</strong></a>, sempre divido dicas e insights sobre tecnologia. Estou sempre em busca de desafios que me possam me ajudar a crescer como desenvolvedora e profissional. 🚀✨</p>
 
 <h3 align="left">Connect with me!</h3>
 <div> 
