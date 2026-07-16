@@ -10,7 +10,7 @@
 
 #
 
-<img align="right" alt="" height="390px" src="https://github.com/user-attachments/assets/2c12a81d-cab4-4e2e-bc79-f818e4b302b3">
+<!-- <img align="right" alt="" height="390px" src="https://github.com/user-attachments/assets/2c12a81d-cab4-4e2e-bc79-f818e4b302b3"> -->
 
 **`Frontend Engineer`**
 
