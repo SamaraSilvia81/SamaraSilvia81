@@ -1,4 +1,4 @@
-<img width="1204" height="833" alt="Captura de tela 2026-07-16 150456" src="https://github.com/user-attachments/assets/d06a789f-2457-47b4-9d86-353af258ec95" />
+<img width="1204" height="833" alt="Captura de tela 2026-07-16 150456" src="https://github.com/user-attachments/assets/f3bf69b2-fcc8-4991-b09b-0e808ff1aadb" />
 
 <!-- <div align="center">
   <a href="https://git.io/typing-svg">
