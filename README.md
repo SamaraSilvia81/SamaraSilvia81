@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<h3> Meu nome é Samara Silvia! </h3>
+<h3> Hey, eu sou a Samara Silvia! </h3>
 
 ![Área](https://img.shields.io/badge/Área-Arquitetura%20de%20Software-FF22D6?style=for-the-badge) 
 ![Atuação](https://img.shields.io/badge/Atuação-Engenheira%20%2F%20Dev%20Frontend-6A5ACD?style=for-the-badge) 
@@ -23,7 +23,7 @@
 
 <h3> $ sobre mim </h3>
 
-Hey! Eu sou a Samara, tenho 23 anos e sou de Recife/PE. Sou formada em **Sistemas para Internet pela UNICAP** e atualmente faço mestrado em **Ciência da Computação na UFPE**.
+Oiee! Tudo bom ? Pode me chamar de Samara, tenho 23 anos e sou de Recife/PE. Sou formada em **Sistemas para Internet pela UNICAP** e atualmente faço mestrado em **Ciência da Computação na UFPE**.
 
 Meu foco principal é **frontend**, especialmente com React e Next.js, mas gosto de participar de diferentes etapas do desenvolvimento de um produto. Tenho experiência com **análise de requisitos, UX/UI, prototipação, arquitetura de software, documentação técnica e integração de APIs**. Também tenho interesse em **Engenharia de Software, pesquisa e aplicações de IA/LLMs**, buscando entender não apenas como construir uma solução, mas também os problemas por trás dela.
 
