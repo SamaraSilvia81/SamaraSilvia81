@@ -113,7 +113,7 @@ Atualmente, faço mestrado em **Ciência da Computação no CIn/UFPE**, com pesq
 <br>
 <br>
 
-<h3 align="center">* GitHub Stats *</h3>
+<h3> $ GitHub Stats </h3>
 
 <br>
 
