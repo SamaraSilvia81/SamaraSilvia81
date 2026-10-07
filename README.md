@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<h3> Meu nome é Samara Silvia! </h3>
+
 ![Área](https://img.shields.io/badge/Área-Arquitetura%20de%20Software-FF22D6?style=for-the-badge) 
 ![Atuação](https://img.shields.io/badge/Atuação-Engenheira%20%2F%20Dev%20Frontend-6A5ACD?style=for-the-badge) 
 ![Especialidade](https://img.shields.io/badge/Especialidade-UX%2FUI-8A2BE2?style=for-the-badge)
