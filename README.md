@@ -5,13 +5,6 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=972FFF&center=true&vCenter=true&width=600&lines=Hey!+Eu+sou+Samara+Silvia.;Sejam+bem+vindos+%F0%9F%91%BE"
-    alt="Typing SVG"
-  />
-</a>
-
 ![Área](https://img.shields.io/badge/Área-Arquitetura%20de%20Software-FF22D6?style=for-the-badge) 
 ![Atuação](https://img.shields.io/badge/Atuação-Engenheira%20%2F%20Dev%20Frontend-6A5ACD?style=for-the-badge) 
 ![Especialidade](https://img.shields.io/badge/Especialidade-UX%2FUI-8A2BE2?style=for-the-badge)
@@ -150,8 +143,11 @@ Atualmente, faço mestrado em **Ciência da Computação no CIn/UFPE**, com pesq
 
 <div align="center"> 
   
- ✨ **Uma linha de código, por vez** 👾
-  
-   *Samara Silvia · Recife, Brazil* 
-  
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=972FFF&center=true&vCenter=true&width=600&lines=Tchauzinho!+%F0%9F%91%8B+Nos+vemos+por+a%C3%AD;E+lembre-se:+uma+linha+de+c%C3%B3digo+por+vez+:D"
+    alt="Typing SVG"
+  />
+</a>
+    
 </div>
