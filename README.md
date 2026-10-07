@@ -111,7 +111,6 @@ Gosto de aprender coisas novas, transformar ideias em produtos e compartilhar o 
 Atualmente, faço mestrado em **Ciência da Computação no CIn/UFPE**, com pesquisa voltada à **Engenharia de Software e Microfrontends**. Meu trabalho investiga **Dívida Técnica Auto-Admitida (SATD)** em sistemas baseados em microfrontends, buscando compreender desafios arquiteturais e apoiar sua análise. Como parte da pesquisa, estou construindo o **MFE-OSS**, um dataset de projetos open-source relacionados a microfrontends, com **455 projetos validados a partir de 2.793 candidatos**.
 
 <br>
-<br>
 
 <h3> $ GitHub Stats </h3>
 
@@ -119,23 +118,9 @@ Atualmente, faço mestrado em **Ciência da Computação no CIn/UFPE**, com pesq
 
 <div align="center">
 
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=samarasilvia81&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0B0B0B&title_color=972FFF&text_color=E8E4DE&border_radius=0&border_color=252523&icon_color=FF22D6"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasilvia81&layout=compact&langs_count=6&hide=html,scss,less&bg_color=0B0B0B&title_color=972FFF&text_color=E8E4DE&border_radius=0&border_color=252523"
-    alt="Most Used Languages"
-  />
-
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=samarasilvia81&theme=dark&background=0B0B0B&border=252523&stroke=252523&ring=972FFF&fire=FF22D6&currStreakLabel=E8E4DE&sideLabels=E8E4DE&currStreakNum=972FFF&sideNums=FF22D6&dates=6B6B63"
-    alt="GitHub Streak"
-  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=samarasilvia81&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=0B0B0B&title_color=972FFF&text_color=E8E4DE&border_radius=0&border_color=252523&icon_color=FF22D6" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasilvia81&layout=compact&langs_count=6&hide=html,scss,less&bg_color=0B0B0B&title_color=972FFF&text_color=E8E4DE&border_radius=0&border_color=252523" alt="Most Used Languages" />
+  <img height="180" src="https://streak-stats.demolab.com?user=samarasilvia81&theme=dark&background=0B0B0B&border=252523&stroke=252523&ring=972FFF&fire=FF22D6&currStreakLabel=E8E4DE&sideLabels=E8E4DE&currStreakNum=972FFF&sideNums=FF22D6&dates=6B6B63" alt="GitHub Streak" />
 
 </div>
 
