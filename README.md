@@ -34,12 +34,8 @@ Meu foco principal é **frontend**, especialmente com React e Next.js, mas gosto
 
 Gosto de aprender coisas novas, transformar ideias em produtos e compartilhar o que descubro ao longo do caminho. No Instagram, em **[@Devs_Sam](https://www.instagram.com/devs_sam/)**, compartilho conteúdos e insights sobre tecnologia.
 
-<br>
-
-<h3> $ minhas redes </h3>
 
 <div>
-
 <a href="https://instagram.com/devs_sam" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF22D6" />
 </a>
@@ -51,10 +47,11 @@ Gosto de aprender coisas novas, transformar ideias em produtos e compartilhar o 
 <a href="https://www.linkedin.com/in/samara-silvia-9a2a26231" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF22D6" />
 </a>
-
 </div>
 
 <br>
+
+<h3> $ o que posso fazer por você </h3>
 <br>
 
 <div align="center">
